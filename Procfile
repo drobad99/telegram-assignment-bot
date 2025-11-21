@@ -1,0 +1,1 @@
+worker: python assignment_bot.py
